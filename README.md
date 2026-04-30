@@ -34,3 +34,16 @@
 
 ## 📫 Contact
 - 💻 GitHub: https://github.com/sukbhin14
+
+---
+
+## 📊 GitHub Stats
+
+![Sukbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukbhin14&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukbhin14&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Portfolio
+- GitHub Pages: https://sukbhin14.github.io
