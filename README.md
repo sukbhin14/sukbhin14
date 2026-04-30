@@ -29,7 +29,7 @@
 ## 📂 Projects
 - 🔍 **MCP Anomaly Detection Project** (ongoing)
 - 🎮 Unity Project (2025)
-
+- 🧭 **Participating in a tourism data web/app development contest** (ongoing)
 ---
 
 ## 📫 Contact
