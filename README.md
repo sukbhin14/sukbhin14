@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sukbin
+# 👋 Hi, I'm Sukbhin
 
 🎓 Hankuk University of Foreign Studies (HUFS)  
 💻 Computer Science & Chinese Language and Culture (Double Major)
